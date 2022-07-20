@@ -17,6 +17,12 @@ body {
     margin-top: 50px;
     margin-bottom: 130px;
     border-radius: 20px;
+    transition: background-color 3s, font-weight 4s;
+}
+
+.top:hover {
+    background-color: rgb(74, 72, 72);
+    font-weight: bolder;
 }
 
 .top-1 h1 {
